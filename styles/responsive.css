@@ -1,0 +1,147 @@
+/* Responsividade */
+
+@media (max-width: 900px)
+{
+    #page-home
+    {
+        background-position-x: 70vw;
+    }
+
+    #page-home .content
+    {
+        align-items: center;
+        text-align: center;
+    }
+
+    #page-home header a
+    {
+        position: absolute;
+        bottom: 1%;
+        left: 50%;
+        transform: translateX(-50%);
+    }
+
+    #page-home header a#signup
+    {
+        margin-top: 10%;
+    }
+
+    #page-home header .logo a
+    {
+        position: relative;
+        top: 0;
+    }
+
+    #page-home main
+    {
+        align-items: center;
+    }
+
+    #page-search-results .cards
+    {
+        grid-template-columns: 1fr;
+
+    }
+
+    #page-search-results main .card  img
+    {
+        height: 200px;
+    }
+
+    #page-search-results header a.hidden, span
+    {
+        display: none;
+    }
+
+    #page-search-results header .logo a  img
+    {
+        position: absolute;
+        left: 50%;
+        transform: translateX(-50%);
+    }
+
+    body::after
+    {
+        display: none;
+    }
+
+    #page-search-results main h4
+    {
+        margin-bottom: 32px;
+        margin-top: 50px;
+    }
+
+    main .card p
+    {
+        margin-bottom: 36px;
+    }
+}
+
+@media (min-width: 900px)
+{
+   #page-create-point form .field + .field
+   {
+        /* margin-right: 2%; */
+        margin-left: 5%;
+   }
+
+   #page-create-point form .field 
+   {
+       width: 98%;
+   }
+}
+
+@media (max-width: 900px)
+{
+    #page-create-point  form .items-grid
+    {
+        grid-template-columns: 1fr;
+    }
+    
+    #page-create-point  form input, select
+    {
+        width: 95%;
+    }
+
+    #page-create-point  header .logo a img
+    {
+        position: absolute;
+        left: 50%;
+        transform: translateX(-50%);
+    }
+
+    #page-create-point form button
+    {
+        position: absolute;
+        left: 50%;
+        transform: translateX(-50%);
+    }
+
+    #page-create-point form
+    {
+        padding-bottom: 145px;
+    }
+
+    #page-create-point  header a#hidden
+    {
+        display: none;
+    }
+}
+
+@media (min-width: 1700px)
+{
+    #page-home
+    {
+        background-position-x: 40vw;
+    }
+}
+
+@media (max-height:760px)
+{
+    #page-home
+    {
+        background-position-y: 200px;
+    }
+}
+
+
