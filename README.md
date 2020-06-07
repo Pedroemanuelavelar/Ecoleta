@@ -1,6 +1,6 @@
 ***
 <h4 align="center">
-    <img alt="NextLevelWeek" title="NLW" src="./assets/logo.svg" />
+    <img alt="NextLevelWeek" title="NLW" src="./public/assets/logo.svg" />
 </h4><br/>
 
 <h4 align="center"> 
@@ -30,6 +30,8 @@
 <br/>
 
 >Projeto **Ecoleta** realizado na semana NLW (**_Next Level week_**) 1ª Edição
+<br/>
+<br/>
 
 <h2>💻 Home page result</h2>
 
@@ -37,11 +39,24 @@
     <img alt="Home" title="NLW" src="https://i.imgur.com/nng9l6Q.png " />
 </h2>
 
+---
+<h2 align="center">
+
+⚠️ AVISO! ⚠️
+<p>Para rodar o projeto em sua máquina é necessário utilizar o <span color=%2304D361><a href="https://nodejs.org/en/download/">node.js</a>
+</span>, depois rodar o comando <strong>npm install</strong></p> 
+</h2>
+
+
+
 <h3>🛠️ ⚙️<strong>Stack</strong></h3>
 
 - HTML
 - CSS
 - Js
+- Node.js
+- Express
+- 
 <br>
 <br>
 
