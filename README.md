@@ -14,7 +14,7 @@
 
   	
   <a href="https://www.linkedin.com/in/pedro-emanuel-10a337160/" target="_blank">
-    <img alt="Made by leon-carvalho" src="https://img.shields.io/badge/made%20by-Pedro Emanuel-%2304D361">
+    <img alt="Made by Pedro Emanuel" src="https://img.shields.io/badge/made%20by-Pedro Emanuel-%2304D361">
   </a>
 	
   
