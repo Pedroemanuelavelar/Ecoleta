@@ -13,7 +13,7 @@
   <img alt="Repository size" src="https://img.shields.io/github/repo-size/Pedroemanuelavelar/Ecoleta">
 
   	
-  <a href="https://www.linkedin.com/in/pedro-emanuel-10a337160/">
+  <a href="https://www.linkedin.com/in/pedro-emanuel-10a337160/" target="_blank">
     <img alt="Made by leon-carvalho" src="https://img.shields.io/badge/made%20by-Pedro Emanuel-%2304D361">
   </a>
 	
