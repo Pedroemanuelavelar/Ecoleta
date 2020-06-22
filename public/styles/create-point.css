@@ -59,6 +59,10 @@ form legend
     align-items: center;
     justify-content: space-between;
     width: 98%;
+    display:  -webkit-box-flex;
+    display: -moz-box-flex;
+    display: -ms-flexbox;
+    display: -webkit-flex;
 }
 
 
@@ -187,6 +191,7 @@ input[type=number]::-webkit-outer-spin-button
     justify-content: space-between;
     text-align: center;
     cursor: pointer;
+    width: 98%;
 }
 
 .items-grid li span

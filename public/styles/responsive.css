@@ -65,10 +65,10 @@
         transform: translateX(-50%);
     }
 
-    body::after
+    /* body::after
     {
         display: none;
-    }
+    } */
 
     #page-search-results main h4
     {

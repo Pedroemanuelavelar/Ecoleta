@@ -105,3 +105,17 @@
     cursor: pointer;
     transition: 400ms;
 }
+
+/*  Isto é para a página point-created o modal desta página */
+#modal.point .content
+{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+#modal.point h1
+{
+    color: white;
+    margin-top: 32px;
+}
